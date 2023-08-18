@@ -1,4 +1,5 @@
 //Use raw or code to read this manual
+
 **THIS IS THE MANUAL FOR THE CONTACT APP**
 
 Code for replacement and compiler code are marked in between dash '-' line.
